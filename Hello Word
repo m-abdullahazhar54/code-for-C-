@@ -1,0 +1,6 @@
+#include<iostream>;
+usimg namespace std;
+int main()
+{
+cout<<"Hello word";
+}
